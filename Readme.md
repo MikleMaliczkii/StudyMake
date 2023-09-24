@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Maliczkii 22PT2
 ==================================
